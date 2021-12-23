@@ -1,3 +1,5 @@
+ 
+
 function sumSalary(salaries) {
   let sumOfSalaries = 0;
 
@@ -10,4 +12,6 @@ function sumSalary(salaries) {
   }
 
   return sumOfSalaries;
+
 }
+
